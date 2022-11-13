@@ -1,0 +1,11 @@
+C:\Users\mhmtm\Desktop\OOP-Inherıtance\OOP-Inherıtance\bin\Debug\OOP-Inherıtance.exe.config
+C:\Users\mhmtm\Desktop\OOP-Inherıtance\OOP-Inherıtance\bin\Debug\OOP-Inherıtance.exe
+C:\Users\mhmtm\Desktop\OOP-Inherıtance\OOP-Inherıtance\bin\Debug\OOP-Inherıtance.pdb
+C:\Users\mhmtm\Desktop\OOP-Inherıtance\OOP-Inherıtance\obj\Debug\OOP-Inherıtance.csproj.AssemblyReference.cache
+C:\Users\mhmtm\Desktop\OOP-Inherıtance\OOP-Inherıtance\obj\Debug\OOP-Inherıtance.csproj.SuggestedBindingRedirects.cache
+C:\Users\mhmtm\Desktop\OOP-Inherıtance\OOP-Inherıtance\obj\Debug\OOP_Inherıtance.Form1.resources
+C:\Users\mhmtm\Desktop\OOP-Inherıtance\OOP-Inherıtance\obj\Debug\OOP_Inherıtance.Properties.Resources.resources
+C:\Users\mhmtm\Desktop\OOP-Inherıtance\OOP-Inherıtance\obj\Debug\OOP-Inherıtance.csproj.GenerateResource.cache
+C:\Users\mhmtm\Desktop\OOP-Inherıtance\OOP-Inherıtance\obj\Debug\OOP-Inherıtance.csproj.CoreCompileInputs.cache
+C:\Users\mhmtm\Desktop\OOP-Inherıtance\OOP-Inherıtance\obj\Debug\OOP-Inherıtance.exe
+C:\Users\mhmtm\Desktop\OOP-Inherıtance\OOP-Inherıtance\obj\Debug\OOP-Inherıtance.pdb
